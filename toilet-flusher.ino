@@ -8,8 +8,8 @@ const int PIN_LED_FLUSHING =  13;
 
 const int FLUSH_STANDARD_DELAY = 3000;
 const int FLUSH_EXTENDED_DELAY = 6000;
-const int POS_CLOSED = 60;
-const int POS_OPEN = 80;
+const int POS_CLOSED = 78;
+const int POS_OPEN = 50;
 
 Servo servo;
 int buttonStateStd = 0;
